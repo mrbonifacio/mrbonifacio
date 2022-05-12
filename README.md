@@ -30,4 +30,5 @@
     
    
   </div>
-  ![snake gif](https://github.com/mrbonifacio/mrbonifacio/blob/output/github-contribution-grid-snake.svg)
+ <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/mrbonifacio/count.svg" /></p>
+  

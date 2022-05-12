@@ -27,10 +27,8 @@
  <a href="https://discord.gg/DmftbyZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mrbonifacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       
-     <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/mrbonifacio/count.svg" /></p>
-  ![gitartwork](gitartwork.svg)
-  
+
    
   </div>
- 
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/mrbonifacio/count.svg" /></p>
   

@@ -2,9 +2,6 @@
 
 - 🎓 Aluno da Fatec Franca
 - 🖥️ Cursando Análise e Desenvolvimento de Sistemas
-- ⌨️ Estudando JavaScript
-- 🇧🇷 Atirador Tiro de Guerra 02-013
-- 👾 Profissional em jogos de FPS
 
 <div align="center">
   <a href="https://github.com/mrbonifacio">

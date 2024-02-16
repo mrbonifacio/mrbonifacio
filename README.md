@@ -1,7 +1,8 @@
 ### Vinícius Bonifácio Pereira 👨‍💻
 
-- 🎓 Aluno da Fatec Franca
-- 🖥️ Cursando Análise e Desenvolvimento de Sistemas
+- 🎓 Formado Análise e Desenvolvimento de Sistemas
+- 🖥️ Cursando Ciências da Computação
+- 👨‍💻 Atualmente Desenvolvedor Full-Stack na Sicoob 3 Colinas  
 
 <div align="center">
   <a href="https://github.com/mrbonifacio">

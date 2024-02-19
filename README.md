@@ -11,7 +11,6 @@
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbonifacio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block" align="center"><br>
-  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TAILWINDCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="TPX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

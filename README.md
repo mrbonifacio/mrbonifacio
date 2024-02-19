@@ -22,13 +22,6 @@
   ##
  
 <div align="center"> 
-  <a href="https://www.instagram.com/vibonifacio_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:mrbonifacio@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
   <br />
   <img alingn="center" src="https://profile-counter.glitch.me/mrbonifacio/count.svg" />
   <img src="https://github.com/mrbonifacio/mrbonifacio/blob/output/github-contribution-grid-snake.svg"/>

@@ -1,8 +1,10 @@
 ### Vinícius Bonifácio Pereira 👨‍💻
 
-- 🎓 Formado Análise e Desenvolvimento de Sistemas
-- 🖥️ Cursando Ciências da Computação
-- 👨‍💻 Atualmente Desenvolvedor Full-Stack na Sicoob 3 Colinas  
+- 🎓 Formado Análise e Desenvolvimento de Sistemas (Fatec Franca)
+- 🖥️ Cursando Ciências da Computação (Uni-facef)
+- 👨‍💻 Atualmente Desenvolvedor Full-Stack na Sicoob 3 Colinas
+    - Responsável por desenvolver e implementar uma aplicação web interna para otimizar processos e aumentar a eficiência operacional da empresa.
+    - Implemento processos de automação em Python para simplificar tarefas repetitivas e aumentar a produtividade da equipe.
 - ✉️ Contato: mrbonifaciobr@gmail.com
 
 <div align="center">

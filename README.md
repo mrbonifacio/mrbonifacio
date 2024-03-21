@@ -20,8 +20,6 @@
   <img alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="SQL SERVER" height="30" widht="40" src="https://camo.githubusercontent.com/e61a475b95bb01339b5a4581cc6c435d11a8f8eb849aeba8200a385ef875052c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6963726f736f667473716c7365727665722f6d6963726f736f667473716c7365727665722d706c61696e2d776f72646d61726b2e737667">  
 </div>
-  
-  ##
  
 <div align="center"> 
   <br />

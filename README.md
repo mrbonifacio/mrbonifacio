@@ -25,6 +25,7 @@
  
 <div align="center"> 
   <br />
+  <img alingn="center" src="https://profile-counter.glitch.me/mrbonifacio/count.svg" />
   <img src="https://github.com/mrbonifacio/mrbonifacio/blob/output/github-contribution-grid-snake.svg"/>
 </div>
   

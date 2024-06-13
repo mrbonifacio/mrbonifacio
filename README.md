@@ -7,6 +7,9 @@
     - Implemento processos de automação em Python para simplificar tarefas repetitivas e aumentar a produtividade da equipe.
 - ✉️ Contato: mrbonifaciobr@gmail.com
 
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibonifacio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-bonifacio-ab9a92231/) 
+
 <div align="center">
   <a href="https://github.com/mrbonifacio">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrbonifacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

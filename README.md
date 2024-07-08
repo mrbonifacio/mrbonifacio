@@ -8,7 +8,6 @@
 - 👨‍💻 Currently a Full-Stack Developer at Sicoob 3 Colinas
     - Responsible for developing and implementing an internal web application to optimize processes and increase the company's operational efficiency.
     - Implement automation processes in Python to streamline repetitive tasks and boost team productivity.
-- ✉️ Contact: mrbonifaciobr@gmail.com
 
 # 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibonifacio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-bonifacio-ab9a92231/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mrbonifaciobr@gmail.com)

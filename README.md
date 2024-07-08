@@ -1,11 +1,14 @@
-# Vinícius Bonifácio Pereira 
+## 👋 » Hi there
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Vinícius+%F0%9F%91%8B;A+Full-Stack+Developer." />
+</p>
 
-- 🎓 Formado Análise e Desenvolvimento de Sistemas (Fatec Franca)
-- 🖥️ Cursando Ciências da Computação (Uni-facef)
-- 👨‍💻 Atualmente Desenvolvedor Full-Stack na Sicoob 3 Colinas
-    - Responsável por desenvolver e implementar uma aplicação web interna para otimizar processos e aumentar a eficiência operacional da empresa.
-    - Implemento processos de automação em Python para simplificar tarefas repetitivas e aumentar a produtividade da equipe.
-- ✉️ Contato: mrbonifaciobr@gmail.com
+- 🎓 Graduated in Systems Analysis and Development (Fatec Franca)
+- 🖥️ Currently pursuing a degree in Computer Science (Uni-facef)
+- 👨‍💻 Currently a Full-Stack Developer at Sicoob 3 Colinas
+    - Responsible for developing and implementing an internal web application to optimize processes and increase the company's operational efficiency.
+    - Implement automation processes in Python to streamline repetitive tasks and boost team productivity.
+- ✉️ Contact: mrbonifaciobr@gmail.com
 
 # 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibonifacio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-bonifacio-ab9a92231/) 

@@ -11,7 +11,8 @@
 - ✉️ Contact: mrbonifaciobr@gmail.com
 
 # 📱 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibonifacio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-bonifacio-ab9a92231/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibonifacio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-bonifacio-ab9a92231/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mrbonifaciobr@gmail.com)
+
 
 # 👨‍💻 Tech Stack:
 <div align="center">

@@ -4,7 +4,6 @@
 </p>
 
 - 🎓 Graduated in Systems Analysis and Development (Fatec Franca)
-- 🖥️ Currently pursuing a degree in Computer Science (Uni-facef)
 - 👨‍💻 Currently a Full-Stack Developer at Sicoob 3 Colinas
     - Responsible for developing and implementing an internal web application to optimize processes and increase the company's operational efficiency.
     - Implement automation processes in Python to streamline repetitive tasks and boost team productivity.

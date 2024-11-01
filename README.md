@@ -28,8 +28,7 @@
   <img alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="POSTGRES" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql.svg">  
-   <img alt="FIGMA" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
+  <img alt="FIGMA" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">  
 </div>
 
  ##

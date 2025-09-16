@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Vinícius+%F0%9F%91%8B;A+Full-Stack+Developer." />
 </p>
 
-- 🎓 Graduated in Systems Analysis and Development (Fatec Franca)
-- 👨‍💻 Currently a Full-Stack Developer at Sicoob 3 Colinas
-    - Responsible for developing and implementing an internal web application to optimize processes and increase the company's operational efficiency.
-    - Implement automation processes in Python to streamline repetitive tasks and boost team productivity.
-
 # 📱 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vibonifacio_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-bonifacio-ab9a92231/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mrbonifaciobr@gmail.com)
 

@@ -8,12 +8,7 @@
 
 
 # 👨‍💻 Tech Stack:
-<div align="center">
-  <a href="https://github.com/mrbonifacio">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mrbonifacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbonifacio&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <img alt="JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,7 +25,6 @@
  
 <div align="center"> 
   <br />
-  <img alingn="center" src="https://profile-counter.glitch.me/mrbonifacio/count.svg" />
   <img src="https://github.com/mrbonifacio/mrbonifacio/blob/output/github-contribution-grid-snake.svg"/>
 </div>
   
